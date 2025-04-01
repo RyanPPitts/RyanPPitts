@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @RyanPPitts
-- 👀 I’m interested in Shopify Development, eCommerce & Digital Marketing 
-- 🌱 I’m currently learning advanced Liquid code 
-- 💞️ I’m looking to collaborate on Shopify Tutorial education 
+- 👋 Hi, I’m Ryan Pitts
+- 👀 I’m interested in Shopify Web Development, eCommerce Strategy & Digital Marketing 
 - 📫 How to reach me - ryanpitts26@gmail.com 
 
 <!---
