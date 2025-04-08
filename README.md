@@ -2,7 +2,7 @@
 
 ## Shopify Web Developer | E-commerce Expert | Digital Marketing Nerd
 
-📍 **Seattle/Tacoma, Washington**  | 📧 [ryanpitts26@gmail.com](mailto:ryanpitts26@gmail.com) | 📞 (206) 898-2147 | 🔗 [LinkedIn](https://www.linkedin.com/in/ryanpitts)
+📍 **Seattle/Tacoma, Washington**   | 📧 [ryanpitts26@gmail.com](mailto:ryanpitts26@gmail.com) | 📞 (206) 898-2147 | 🔗 [LinkedIn](https://www.linkedin.com/in/ryanpitts)
 
 ---
 
@@ -46,7 +46,7 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 | [**Shopify Checkout Extension - Confidence Builder**](https://github.com/ryanppitts/Shopify-Checkout-Extension---Confidence-Builder) | [**Shopify Custom App - Checkout Upsell Widget**](https://github.com/RyanPPitts/ce-pre-purchase) |
 |:--|:--|
 | Shopify Checkout Extensions/Custom App to build a confidence banner in checkout.<br><br>![checkout confidence banner](https://github.com/user-attachments/assets/0813fb39-cfbd-4f9e-bf31-fb0f46a446b2) | Shopify Custom App to display upsell product in checkout.<br><br>![upsell_checkout](https://github.com/user-attachments/assets/8dc686ba-31b8-4d2e-803b-c9627b719538)
- |
+ 
 
 
 ## 🌐 Websites I've Built or Contributed To
