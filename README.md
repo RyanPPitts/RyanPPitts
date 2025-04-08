@@ -47,6 +47,7 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
 ---
 
+![c417114a-8986-44f1-bbf0-25dd0dc00864](https://github.com/user-attachments/assets/98732b92-1c6e-4858-8b1e-9dff973119ee)
 
 ### 🛠️ **Technical Skills**
 
