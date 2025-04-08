@@ -44,9 +44,9 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
 ## 🚀 Featured Repositories
 
-| [**box-builder-shopify**](https://github.com/your-username/box-builder-shopify) | [**shopify-offer-widget**](https://github.com/your-username/shopify-offer-widget) |
+| [**Shopify Checkout Extension - Confidence Builder**](https://github.com/ryanppitts/Shopify-Checkout-Extension---Confidence-Builder) | [**shopify-offer-widget**](https://github.com/your-username/shopify-offer-widget) |
 |:--|:--|
-| A customizable Shopify widget for building product bundles (e.g. 6 items for $60), with subscription and analytics support.<br><br><!-- ![Box Builder Screenshot](https://via.placeholder.com/300x180) --> | Lets customers submit custom price offers on product pages. Fully editable via the Shopify theme editor.<br><br><!-- ![Offer Widget Screenshot](https://via.placeholder.com/300x180) --> |
+| Used Shopify Checkout Extensions/Custom Apps to build a confidence builder in the checkout section.<br><br><!-- ![Box Builder Screenshot](https://via.placeholder.com/300x180) --> | Lets customers submit custom price offers on product pages. Fully editable via the Shopify theme editor.<br><br><!-- ![Offer Widget Screenshot](https://via.placeholder.com/300x180) --> |
 
 | [**shopify-reviews-remix**](https://github.com/your-username/shopify-reviews-remix) | [**shopify-discount-function**](https://github.com/your-username/shopify-discount-function) |
 |:--|:--|
