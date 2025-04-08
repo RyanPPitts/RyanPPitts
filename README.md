@@ -36,18 +36,27 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
 ---
 
----
-
 ## 🌐 Websites I've Built or Contributed To
 
-| Website | Description |
-|---------|-------------|
-| ![c417114a-8986-44f1-bbf0-25dd0dc00864](https://github.com/user-attachments/assets/98732b92-1c6e-4858-8b1e-9dff973119ee) | **[WorldPantry](https://www.worldpantry.com)**<br>Built and scaled multiple Shopify Plus stores for leading consumer packaged goods brands. |
-| [![Fantastapack](thumbnail-url)](https://www.fantastapack.com) | **[Fantastapack](https://www.fantastapack.com)**<br>Managed Shopify development, marketing, and app integrations driving significant revenue growth. |
+- [Celestial Seasonings](https://celestialseasonings.com) – Shopify Plus store development and optimization.
+- [Eight O'Clock Coffee](https://www.eightoclock.com/) – Shopify Plus theme development and custom app integration.
+- [Mary's Gone Crackers](https://www.marysgonecrackers.com/) – Custom Shopify UX enhancements.
+- [Quest Nutrition](https://questnutrition.com) – Developed Shopify subscriptions and improved conversions.
+- [Tootsie Roll Shop](https://shop.tootsie.com/) – Shopify theme customizations and feature development.
+- [Loacker USA](https://www.loackerusa.com/) – Enhanced Shopify UX and checkout performance.
+- [Traditional Medicinals](https://traditionalmedicinals.com) – Customized Shopify themes and app integrations.
+- [Second Nature Snacks](https://www.secondnaturesnacks.com/) – Shopify store customizations and optimizations.
+- [Alter Eco Foods](https://www.alterecofoods.com/) – Built subscription capabilities and UX improvements.
+- [Brownie Brittle](https://www.browniebrittle.com/) – Shopify custom apps and UX optimizations.
+- [Sanders Candy](https://www.sanderscandy.com/) – Optimized Shopify Plus store experience.
+- [Sahale Snacks](https://www.sahalesnacks.com/) – Shopify theme enhancements and custom functionality.
+- [Walden Farms](https://waldenfarms.com/) – Shopify customization and performance improvements.
+- [Harvest Snaps](https://www.harvestsnaps.com) – Enhanced UX and integrated advanced Shopify functionality.
+- [Think! Products](https://www.thinkproducts.com) – Developed Shopify subscription models.
+- [Divine Chocolate USA](https://www.divinechocolateusa.com/) – Custom theme development and UX optimizations.
+- [Good Earth](https://goodearth.com/) – Shopify Plus store enhancements and integrations.
 
 ---
-
-
 
 ### 🛠️ **Technical Skills**
 
