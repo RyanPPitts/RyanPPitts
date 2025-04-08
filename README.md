@@ -43,9 +43,9 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 | [**Celestial Seasonings**](https://celestialseasonings.com)<br>Custom Shopify Plus store optimization and theme development.<br><br>![Celestial Screenshot](https://api.urlbox.com/v1/m2O8GD3ebHVnOKhI/png?url=celestialseasonings.com&block_ads=true&hide_cookie_banners=true&click_accept=true&press_escape=true) | [**Quest Nutrition**](https://questnutrition.com)<br>Shopify subscription implementation, custom checkout enhancements, and UX optimization.<br><br>![Quest Screenshot](![quest_tn](https://github.com/user-attachments/assets/fca7a1a4-85bc-4226-a52a-6e7e20d1bb04)
 ) |
 
-| Walden Farms | Eight O'Clock Coffee |
+| Fantastapack | Eight O'Clock Coffee |
 |--------------|----------------------|
-| [**Walden Farms**](https://waldenfarms.com)<br>Shopify customization, performance improvements, and advanced app integrations.<br><br>![Fantastapack Screenshot](![fantastapack_tn](https://github.com/user-attachments/assets/d3a4c352-6980-40c5-9106-6be6026b164b)) | [**Eight O'Clock Coffee**](https://www.eightoclock.com/)<br>Custom theme development and Shopify Plus store optimization.<br><br>![Eight O Clock Screenshot](https://api.urlbox.com/v1/m2O8GD3ebHVnOKhI/png?url=celestialseasonings.com&block_ads=true&hide_cookie_banners=true&click_accept=true&press_escape=true) |
+| [**Fantastapck**](https://waldenfarms.com)<br>Shopify customization, performance improvements, and advanced app integrations.<br><br>![Fantastapack Screenshot](![fantastapack_tn](https://github.com/user-attachments/assets/d3a4c352-6980-40c5-9106-6be6026b164b)) | [**Eight O'Clock Coffee**](https://www.eightoclock.com/)<br>Custom theme development and Shopify Plus store optimization.<br><br>![Eight O Clock Screenshot](https://api.urlbox.com/v1/m2O8GD3ebHVnOKhI/png?url=celestialseasonings.com&block_ads=true&hide_cookie_banners=true&click_accept=true&press_escape=true) |
 
 
 
