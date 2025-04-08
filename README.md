@@ -46,11 +46,8 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
 | [**Shopify Checkout Extension - Confidence Builder**](https://github.com/ryanppitts/Shopify-Checkout-Extension---Confidence-Builder) | [**shopify-offer-widget**](https://github.com/your-username/shopify-offer-widget) |
 |:--|:--|
-| Used Shopify Checkout Extensions/Custom Apps to build a confidence builder in the checkout section.<br><br>![checkout confidence banner](https://github.com/user-attachments/assets/0813fb39-cfbd-4f9e-bf31-fb0f46a446b2) | Lets customers submit custom price offers on product pages. Fully editable via the Shopify theme editor.<br><br><!-- ![Offer Widget Screenshot](https://via.placeholder.com/300x180) --> |
-
-| [**shopify-reviews-remix**](https://github.com/your-username/shopify-reviews-remix) | [**shopify-discount-function**](https://github.com/your-username/shopify-discount-function) |
-|:--|:--|
-| A product reviews widget for Shopify built with Remix. Easily embeddable via snippet and admin-configurable.<br><br><!-- ![Reviews Screenshot](https://via.placeholder.com/300x180) --> | A Shopify Function-based discount app with full Remix integration. Built for flexible discount logic in Checkout.<br><br><!-- ![Discount Function Screenshot](https://via.placeholder.com/300x180) --> |
+| Used Shopify Checkout Extensions/Custom Apps to build a confidence builder in the checkout section.<br><br>![checkout confidence banner](https://github.com/user-attachments/assets/0813fb39-cfbd-4f9e-bf31-fb0f46a446b2) | Lets customers submit custom price offers on product pages. Fully editable via the Shopify theme editor.<br><br>![upsell_checkout](https://github.com/user-attachments/assets/8dc686ba-31b8-4d2e-803b-c9627b719538)
+ |
 
 
 ## 🌐 Websites I've Built or Contributed To
