@@ -47,19 +47,11 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
 | [**box-builder-shopify**](https://github.com/your-username/box-builder-shopify) | [**shopify-offer-widget**](https://github.com/your-username/shopify-offer-widget) |
 |:--|:--|
-| A customizable Shopify widget for building product bundles (e.g. 6 items for $60), with subscription and analytics support.<br><br>
-<!-- ![Box Builder Screenshot](https://via.placeholder.com/300x180) --> 
-| Lets customers submit custom price offers on product pages. Fully editable via the Shopify theme editor.<br><br>
-<!-- ![Offer Widget Screenshot](https://via.placeholder.com/300x180) --> |
+| A customizable Shopify widget for building product bundles (e.g. 6 items for $60), with subscription and analytics support.<br><br><!-- ![Box Builder Screenshot](https://via.placeholder.com/300x180) --> | Lets customers submit custom price offers on product pages. Fully editable via the Shopify theme editor.<br><br><!-- ![Offer Widget Screenshot](https://via.placeholder.com/300x180) --> |
 
 | [**shopify-reviews-remix**](https://github.com/your-username/shopify-reviews-remix) | [**shopify-discount-function**](https://github.com/your-username/shopify-discount-function) |
 |:--|:--|
-| A product reviews widget for Shopify built with Remix. Easily embeddable via snippet and admin-configurable.<br><br>
-<!-- ![Reviews Screenshot](https://via.placeholder.com/300x180) --> 
-| A Shopify Function-based discount app with full Remix integration. Built for flexible discount logic in Checkout.<br><br>
-<!-- ![Discount Function Screenshot](https://via.placeholder.com/300x180) --> |
-
----
+| A product reviews widget for Shopify built with Remix. Easily embeddable via snippet and admin-configurable.<br><br><!-- ![Reviews Screenshot](https://via.placeholder.com/300x180) --> | A Shopify Function-based discount app with full Remix integration. Built for flexible discount logic in Checkout.<br><br><!-- ![Discount Function Screenshot](https://via.placeholder.com/300x180) --> |
 
 
 ## 🌐 Websites I've Built or Contributed To
