@@ -43,15 +43,6 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 | [**Celestial Seasonings**](https://celestialseasonings.com)<br>Custom Shopify Plus store optimization and theme development.<br><br>![Celestial Screenshot](https://api.urlbox.com/v1/m2O8GD3ebHVnOKhI/png?url=celestialseasonings.com&block_ads=true&hide_cookie_banners=true&click_accept=true&press_escape=true) | [**Quest Nutrition**](https://questnutrition.com)<br>Shopify subscription implementation, custom checkout enhancements, and UX optimization.<br><br>![Quest Screenshot](https://github.com/user-attachments/assets/fca7a1a4-85bc-4226-a52a-6e7e20d1bb04)
  
 
- | Fantastapack | Tootsie Roll |
-|----------------------|-----------------|
-| [**Fantastapack**](https://fantastapack.com)<br>Custom Shopify Plus store optimization and theme development.<br><br>![fantastapack_tn](https://github.com/user-attachments/assets/6b2d4e57-994d-4d28-bf24-2d9e3ef8e798)
-| [**Tootsie Roll**](https://shop.tootsie.com)<br>Shopify subscription implementation, custom checkout enhancements, and UX optimization.<br><br>![shop tootsie](https://github.com/user-attachments/assets/4c907834-b6e3-4262-8a31-efa77622f5a4)
- 
-
-
-
-
 ---
 
 ## 🌐 Websites I've Built or Contributed To
