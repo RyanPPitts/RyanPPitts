@@ -44,9 +44,9 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
 ## 🚀 Featured Repositories
 
-| [**Shopify Checkout Extension - Confidence Builder**](https://github.com/ryanppitts/Shopify-Checkout-Extension---Confidence-Builder) | [**Shopify Custom App - Checkout Upsell Widget**](https://github.com/RyanPPitts/ce-pre-purchase) |
+| [**Shopify Checkout Extension - Confidence Builder**](https://github.com/ryanppitts/Shopify-Checkout-Extension---Confidence-Builder) | [**Shopify Custom App - Checkout Upsell Widget**](https://github.com/RyanPPitts/ce-pre-purchase) | Website Demo (https://tako-turbo.myshopify.com/) Password : ryanpitts
 |:--|:--|
-| Used Shopify Checkout Extensions/Custom Apps to build a confidence builder in the checkout section.<br><br>![checkout confidence banner](https://github.com/user-attachments/assets/0813fb39-cfbd-4f9e-bf31-fb0f46a446b2) | Lets customers submit custom price offers on product pages. Fully editable via the Shopify theme editor.<br><br>![upsell_checkout](https://github.com/user-attachments/assets/8dc686ba-31b8-4d2e-803b-c9627b719538)
+| Shopify Checkout Extensions/Custom App to build a confidence banner in checkout.<br><br>![checkout confidence banner](https://github.com/user-attachments/assets/0813fb39-cfbd-4f9e-bf31-fb0f46a446b2) | Shopify Custom App to display upsell product in checkout.<br><br>![upsell_checkout](https://github.com/user-attachments/assets/8dc686ba-31b8-4d2e-803b-c9627b719538) | Website Demo (https://tako-turbo.myshopify.com/) Password : ryanpitts
  |
 
 
