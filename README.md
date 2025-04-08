@@ -45,8 +45,9 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
  | Fantastapack | Tootsie Roll |
 |----------------------|-----------------|
-| [**Fantastapack**](https://fantastapack.com)<br>Custom Shopify Plus store optimization and theme development.<br><br>![Fantastapack Screenshot](https://api.urlbox.com/v1/m2O8GD3ebHVnOKhI/png?url=celestialseasonings.com&block_ads=true&hide_cookie_banners=true&click_accept=true&press_escape=true) | [**Tootsie Roll**](https://shop.tootsie.com)<br>Shopify subscription implementation, custom checkout enhancements, and UX optimization.<br><br>![Tootsie Roll Screenshot](https://github.com/user-attachments/assets/fca7a1a4-85bc-4226-a52a-6e7e20d1bb04)
- |
+| [**Fantastapack**](https://fantastapack.com)<br>Custom Shopify Plus store optimization and theme development.<br><br>![fantastapack_tn](https://github.com/user-attachments/assets/67f435c1-f4a6-4af6-b848-58376fc169f5)
+ | [**Tootsie Roll**](https://shop.tootsie.com)<br>Shopify subscription implementation, custom checkout enhancements, and UX optimization.<br><br>![shop tootsie](https://github.com/user-attachments/assets/6054a990-b6af-4905-aa3e-5146a1c15619) |
+
 
 
 ---
