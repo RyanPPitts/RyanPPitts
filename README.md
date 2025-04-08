@@ -1,6 +1,6 @@
 # Ryan P. Pitts
 
-## Shopify Web Developer | E-commerce Expert
+## Shopify Web Developer | E-commerce Expert | Digital Marketing Nerd
 
 📍 **Bonney Lake, WA**  
 📧 [ryanpitts26@gmail.com](mailto:ryanpitts26@gmail.com) | 📞 (206) 898-2147 | 🔗 [LinkedIn](https://www.linkedin.com/in/ryanpitts)
