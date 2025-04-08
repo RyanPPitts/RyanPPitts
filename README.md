@@ -36,16 +36,16 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
 ---
 
-
 ## 🌟 Featured Website Projects
 
 | Celestial Seasonings | Quest Nutrition |
 |----------------------|-----------------|
-| [**Celestial Seasonings**](https://celestialseasonings.com)<br>Custom Shopify Plus store optimization and theme development.<br><br>![Screen1](https://via.placeholder.com/120) ![Screen2](https://via.placeholder.com/120) ![Screen3](https://via.placeholder.com/120) | [**Quest Nutrition**](https://questnutrition.com)<br>Shopify subscription implementation, custom checkout enhancements, and UX optimization.<br><br>![Screen1](https://via.placeholder.com/120) ![Screen2](https://via.placeholder.com/120) ![Screen3](https://via.placeholder.com/120) |
+| [**Celestial Seasonings**](https://celestialseasonings.com)<br>Custom Shopify Plus store optimization and theme development.<br><br>![Celestial Screenshot](https://api.urlbox.com/v1/m2O8GD3ebHVnOKhI/png?url=celestialseasonings.com&block_ads=true&hide_cookie_banners=true&click_accept=true&press_escape=true) | [**Quest Nutrition**](https://questnutrition.com)<br>Shopify subscription implementation, custom checkout enhancements, and UX optimization.<br><br>![Quest Screenshot](https://via.placeholder.com/150) |
 
 | Walden Farms | Eight O'Clock Coffee |
 |--------------|----------------------|
-| [**Walden Farms**](https://waldenfarms.com)<br>Shopify customization, performance improvements, and advanced app integrations.<br><br>![Screen1](https://via.placeholder.com/120) ![Screen2](https://via.placeholder.com/120) ![Screen3](https://via.placeholder.com/120) | [**Eight O'Clock Coffee**](https://www.eightoclock.com/)<br>Custom theme development and Shopify Plus store optimization.<br><br>![Screen1](https://via.placeholder.com/120) ![Screen2](https://via.placeholder.com/120) ![Screen3](https://via.placeholder.com/120) |
+| [**Walden Farms**](https://waldenfarms.com)<br>Shopify customization, performance improvements, and advanced app integrations.<br><br>![Walden Screenshot](https://via.placeholder.com/150) | [**Eight O'Clock Coffee**](https://www.eightoclock.com/)<br>Custom theme development and Shopify Plus store optimization.<br><br>![Eight OClock Screenshot](https://via.placeholder.com/150) |
+
 
 
 ---
