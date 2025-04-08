@@ -42,12 +42,12 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
 | Website | Description |
 |---------|-------------|
-| [![WorldPantry](thumbnail-url)](https://www.worldpantry.com) | **[WorldPantry](https://www.worldpantry.com)**<br>Built and scaled multiple Shopify Plus stores for leading consumer packaged goods brands. |
+| ![c417114a-8986-44f1-bbf0-25dd0dc00864](https://github.com/user-attachments/assets/98732b92-1c6e-4858-8b1e-9dff973119ee) | **[WorldPantry](https://www.worldpantry.com)**<br>Built and scaled multiple Shopify Plus stores for leading consumer packaged goods brands. |
 | [![Fantastapack](thumbnail-url)](https://www.fantastapack.com) | **[Fantastapack](https://www.fantastapack.com)**<br>Managed Shopify development, marketing, and app integrations driving significant revenue growth. |
 
 ---
 
-![c417114a-8986-44f1-bbf0-25dd0dc00864](https://github.com/user-attachments/assets/98732b92-1c6e-4858-8b1e-9dff973119ee)
+
 
 ### 🛠️ **Technical Skills**
 
