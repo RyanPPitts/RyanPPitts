@@ -36,6 +36,20 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
 ---
 
+
+## 🌟 Featured Website Projects
+
+| Celestial Seasonings | Quest Nutrition |
+|----------------------|-----------------|
+| [**Celestial Seasonings**](https://celestialseasonings.com)<br>Custom Shopify Plus store optimization and theme development.<br><br>![Screen1](https://via.placeholder.com/120) ![Screen2](https://via.placeholder.com/120) ![Screen3](https://via.placeholder.com/120) | [**Quest Nutrition**](https://questnutrition.com)<br>Shopify subscription implementation, custom checkout enhancements, and UX optimization.<br><br>![Screen1](https://via.placeholder.com/120) ![Screen2](https://via.placeholder.com/120) ![Screen3](https://via.placeholder.com/120) |
+
+| Walden Farms | Eight O'Clock Coffee |
+|--------------|----------------------|
+| [**Walden Farms**](https://waldenfarms.com)<br>Shopify customization, performance improvements, and advanced app integrations.<br><br>![Screen1](https://via.placeholder.com/120) ![Screen2](https://via.placeholder.com/120) ![Screen3](https://via.placeholder.com/120) | [**Eight O'Clock Coffee**](https://www.eightoclock.com/)<br>Custom theme development and Shopify Plus store optimization.<br><br>![Screen1](https://via.placeholder.com/120) ![Screen2](https://via.placeholder.com/120) ![Screen3](https://via.placeholder.com/120) |
+
+
+---
+
 ## 🌐 Websites I've Built or Contributed To
 
 - [Celestial Seasonings](https://celestialseasonings.com) – Shopify Plus store development and optimization.
