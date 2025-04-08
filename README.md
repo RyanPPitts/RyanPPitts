@@ -36,13 +36,23 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
 ---
 
-### 🛠 **Technical Skills**
+### 🛠️ **Technical Skills**
 
-| Front-End                 | Shopify Development             | Third-Party Apps          | Backend & Tools                  |
-| ------------------------- | --------------------------------| --------------------------| ---------------------------------|
-| HTML5, CSS3, JavaScript   | Custom Apps, Shopify Functions  | Klaviyo, Recharge         | Node.js, Express, REST API       |
-| React.js, jQuery, AJAX    | Checkout Extensions, APIs       | Attentive, Yotpo          | GitHub, Azure DevOps, Monday.com |
-| Liquid, GraphQL           | Theme Customization             | ReConvert, HubSpot        |                                  |
+| Front-End |
+| --------- |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![AJAX](https://img.shields.io/badge/-AJAX-007BFF?style=flat-square&logo=json&logoColor=white) ![Liquid](https://img.shields.io/badge/-Liquid-00A0DC?style=flat-square&logo=shopify&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+
+| Shopify Development |
+| ------------------- |
+| ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white) ![Shopify Functions](https://img.shields.io/badge/-Shopify_Functions-95BF47?style=flat-square&logo=shopify&logoColor=white) ![Checkout Extensions](https://img.shields.io/badge/-Checkout_Extensions-95BF47?style=flat-square&logo=shopify&logoColor=white) ![Shopify API](https://img.shields.io/badge/-Shopify_API-000000?style=flat-square&logo=shopify&logoColor=white) |
+
+| Third-Party Apps |
+| ---------------- |
+| ![Klaviyo](https://img.shields.io/badge/-Klaviyo-000000?style=flat-square&logo=klaviyo&logoColor=white) ![Recharge](https://img.shields.io/badge/-Recharge-007BFF?style=flat-square&logo=stripe&logoColor=white) ![Attentive](https://img.shields.io/badge/-Attentive-FFD700?style=flat-square&logo=mailchimp&logoColor=black) ![Yotpo](https://img.shields.io/badge/-Yotpo-3367D6?style=flat-square&logo=youtube&logoColor=white) ![ReConvert](https://img.shields.io/badge/-ReConvert-5C6BC0?style=flat-square&logo=shopify&logoColor=white) ![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white) |
+
+| Backend & Tools |
+| --------------- |
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/-REST_API-6DB33F?style=flat-square&logo=json&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) ![Monday.com](https://img.shields.io/badge/-Monday.com-00D1B2?style=flat-square&logo=monday.com&logoColor=white) |
 
 ---
 
