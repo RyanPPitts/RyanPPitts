@@ -1,6 +1,6 @@
 # Ryan P. Pitts
 
-## Shopify Web Developer | E-commerce Expert | Digital Marketing Nerd
+## Web Developer | Ecommerce Expert | Digital Marketing Nerd
 
 📍 **Seattle/Tacoma, Washington**   | 📧 [ryanpitts26@gmail.com](mailto:ryanpitts26@gmail.com) | 📞 (206) 898-2147 | 🔗 [LinkedIn](https://www.linkedin.com/in/ryanpitts)
 
@@ -8,7 +8,7 @@
 
 ### 🚀 **About Me**
 
-I'm an experienced Shopify developer and e-commerce expert with over 15 years dedicated to driving online growth through a powerful combination of full-stack development, digital marketing, and comprehensive e-commerce operations. My passion lies in crafting engaging online experiences, optimizing conversions, and leveraging data-driven insights to scale digital presence and revenues.
+Experienced web developer and e-commerce expert with over 15 years dedicated to driving online growth through a powerful combination of full-stack development, digital marketing, and comprehensive e-commerce operations. My passion lies in crafting engaging online experiences, optimizing conversions, and leveraging data-driven insights to scale digital presence and revenues.
 
 ---
 
@@ -17,7 +17,7 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 **Shopify Platform Lead Developer**  
 *WorldPantry | May 2021 – April 2025*
 
-- **Developed & scaled 26 Shopify Plus stores**, achieving a **25% revenue increase** through custom theme development and mobile-first UX strategies.
+- Developed & scaled 26 Shopify Plus stores**, achieving a **25% revenue increase** through custom theme development and mobile-first UX strategies.
 - Engineered real-time inventory notifications and geolocation-based delivery estimates, boosting checkout conversions by **9–12%** across all stores.
 - Managed subscription implementations via Recharge across **23 Shopify stores**, generating **$2.4M+ annual subscription revenue**.
 - Developed custom Shopify apps using Shopify Functions, Checkout Extensions, and APIs for advanced storefront capabilities.
@@ -34,34 +34,31 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
 ---
  
-
 ## 🚀 Featured Repositories
 
 | [**Shopify Checkout Extension - Confidence Builder**](https://github.com/ryanppitts/Shopify-Checkout-Extension---Confidence-Builder) | [**Shopify Custom App - Checkout Upsell Widget**](https://github.com/RyanPPitts/ce-pre-purchase) |
 |:--|:--|
 | Shopify Checkout Extensions/Custom App to build a confidence banner in checkout.<br><br>![checkout confidence banner](https://github.com/user-attachments/assets/0813fb39-cfbd-4f9e-bf31-fb0f46a446b2) | Shopify Custom App to display upsell product in checkout.<br><br>![upsell_checkout](https://github.com/user-attachments/assets/8dc686ba-31b8-4d2e-803b-c9627b719538)
  
+## 🌐 Proud to have built and maintained the following sites : 
 
-
-## 🌐 Websites I've Built or Contributed To
-
-- [Celestial Seasonings](https://celestialseasonings.com) – Shopify Plus store development and optimization.
-- [Eight O'Clock Coffee](https://www.eightoclock.com/) – Shopify Plus theme development and custom app integration.
-- [Mary's Gone Crackers](https://www.marysgonecrackers.com/) – Custom Shopify UX enhancements.
-- [Quest Nutrition](https://questnutrition.com) – Developed Shopify subscriptions and improved conversions.
-- [Tootsie Roll Shop](https://shop.tootsie.com/) – Shopify theme customizations and feature development.
-- [Loacker USA](https://www.loackerusa.com/) – Enhanced Shopify UX and checkout performance.
-- [Traditional Medicinals](https://traditionalmedicinals.com) – Customized Shopify themes and app integrations.
-- [Second Nature Snacks](https://www.secondnaturesnacks.com/) – Shopify store customizations and optimizations.
-- [Alter Eco Foods](https://www.alterecofoods.com/) – Built subscription capabilities and UX improvements.
-- [Brownie Brittle](https://www.browniebrittle.com/) – Shopify custom apps and UX optimizations.
-- [Sanders Candy](https://www.sanderscandy.com/) – Optimized Shopify Plus store experience.
-- [Sahale Snacks](https://www.sahalesnacks.com/) – Shopify theme enhancements and custom functionality.
-- [Walden Farms](https://waldenfarms.com/) – Shopify customization and performance improvements.
-- [Harvest Snaps](https://www.harvestsnaps.com) – Enhanced UX and integrated advanced Shopify functionality.
-- [Think! Products](https://www.thinkproducts.com) – Developed Shopify subscription models.
-- [Divine Chocolate USA](https://www.divinechocolateusa.com/) – Custom theme development and UX optimizations.
-- [Good Earth](https://goodearth.com/) – Shopify Plus store enhancements and integrations.
+- [Celestial Seasonings](https://celestialseasonings.com) 
+- [Eight O'Clock Coffee](https://www.eightoclock.com/) 
+- [Mary's Gone Crackers](https://www.marysgonecrackers.com/) 
+- [Quest Nutrition](https://questnutrition.com) 
+- [Tootsie Roll Shop](https://shop.tootsie.com/) 
+- [Loacker USA](https://www.loackerusa.com/) 
+- [Traditional Medicinals](https://traditionalmedicinals.com) 
+- [Second Nature Snacks](https://www.secondnaturesnacks.com/) 
+- [Alter Eco Foods](https://www.alterecofoods.com/) 
+- [Brownie Brittle](https://www.browniebrittle.com/) 
+- [Sanders Candy](https://www.sanderscandy.com/) 
+- [Sahale Snacks](https://www.sahalesnacks.com/) 
+- [Walden Farms](https://waldenfarms.com/) 
+- [Harvest Snaps](https://www.harvestsnaps.com) 
+- [Think! Products](https://www.thinkproducts.com) 
+- [Divine Chocolate USA](https://www.divinechocolateusa.com/) 
+- [Good Earth](https://goodearth.com/) 
 
 ---
 
@@ -87,23 +84,24 @@ I'm an experienced Shopify developer and e-commerce expert with over 15 years de
 
 ### 🎓 **Education**
 
-- **Full Stack Software Engineering**, General Assembly
+- **Full Stack Software Engineering Immersive**, General Assembly
 - **B.A. Economics**, University of Washington
 
 ---
 
 ### 📜 **Certifications**
 
-- Google Analytics 4 Certification
+- GA 4
 - Problem Solving Process (Lean Enterprise Institute)
+- HubSpot Email & Content Marketing 
 
 ---
 
 ### 📈 **Digital Marketing Expertise**
 
-- **SEO, CRO, CRM, Email Marketing**
-- **Google Ads, Meta Ads, SEMrush**
-- **Google Analytics 4**
+- **SEO, CRO/AB Testing, CRM, SEM, Email Marketing Automation**
+- **Google Ads, Meta Ads, SEMrush, HubSpot**
+- **Google Analytics 4, Google Search Console, Google Tag Manage, Bing Advertising**
 
 ---
 
