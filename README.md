@@ -21,10 +21,10 @@ Experienced web developer and e-commerce expert with over 15 years dedicated to 
 - Engineered real-time inventory notifications and geolocation-based delivery estimates, boosting checkout conversions by **9–12%** across all stores.
 - Managed subscription implementations via Recharge across **23 Shopify stores**, generating **$2.4M+ annual subscription revenue**.
 - Developed custom Shopify apps using Shopify Functions, Checkout Extensions, and APIs for advanced storefront capabilities.
-- Actively participated in high-impact cross-functional teams for Conversion Rate Optimization (CRO), Problem Solving, and strategic Shopify initiatives.
+- Actively participated in high-impact cross-functional teams for Conversion Rate Optimization (CRO), Problem-Solving, and strategic Shopify initiatives.
 
 **E-commerce Specialist**  
-*Fantastapack | The BoxMaker | May 2016 – April 2021*
+*Fantastapack | May 2016 – April 2021*
 
 - Grew monthly revenues **from $20K to $1.19M**, driving growth through strategic marketing, multi-channel marketplace expansion, and high-value sales.
 - Optimized Google Ads strategy, reducing **CPA from $137 to $26 (over 80%)**.
@@ -91,8 +91,8 @@ Experienced web developer and e-commerce expert with over 15 years dedicated to 
 
 ### 📜 **Certifications**
 
-- GA 4
-- Problem Solving Process (Lean Enterprise Institute)
+- Google Analytics 4
+- Problem-Solving Process (Lean Enterprise Institute)
 - HubSpot Email & Content Marketing 
 
 ---
@@ -101,7 +101,7 @@ Experienced web developer and e-commerce expert with over 15 years dedicated to 
 
 - **SEO, CRO/AB Testing, CRM, SEM, Email Marketing Automation**
 - **Google Ads, Meta Ads, SEMrush, HubSpot**
-- **Google Analytics 4, Google Search Console, Google Tag Manage, Bing Advertising**
+- **Google Analytics 4, Google Search Console, Google Tag Manager, Bing Ads**
 
 ---
 
