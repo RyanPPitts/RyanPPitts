@@ -45,30 +45,30 @@ Experienced web developer and ecommerce expert with over 15 years dedicated to d
 <table>
   <tr>
     <td valign="top">
- [Celestial Seasonings](https://celestialseasonings.com)
- [Eight O'Clock Coffee](https://www.eightoclock.com/)
-[Mary's Gone Crackers](https://www.marysgonecrackers.com/)
-[Quest Nutrition](https://questnutrition.com)
- [Tootsie Roll Shop](https://shop.tootsie.com/)
-[Loacker USA](https://www.loackerusa.com/)
+- [Celestial Seasonings](https://celestialseasonings.com)
+- [Eight O'Clock Coffee](https://www.eightoclock.com/)
+- [Mary's Gone Crackers](https://www.marysgonecrackers.com/)
+- [Quest Nutrition](https://questnutrition.com)
+- [Tootsie Roll Shop](https://shop.tootsie.com/)
+- [Loacker USA](https://www.loackerusa.com/)
     </td>
     <td valign="top">
-[Traditional Medicinals](https://traditionalmedicinals.com)
-[Second Nature Snacks](https://www.secondnaturesnacks.com/)
- [Alter Eco Foods](https://www.alterecofoods.com/)
- [Brownie Brittle](https://www.browniebrittle.com/)
-[Sanders Candy](https://www.sanderscandy.com/)
-[Sahale Snacks](https://www.sahalesnacks.com/)
+- [Traditional Medicinals](https://traditionalmedicinals.com)
+- [Second Nature Snacks](https://www.secondnaturesnacks.com/)
+- [Alter Eco Foods](https://www.alterecofoods.com/)
+- [Brownie Brittle](https://www.browniebrittle.com/)
+- [Sanders Candy](https://www.sanderscandy.com/)
+- [Sahale Snacks](https://www.sahalesnacks.com/)
     </td>
     <td valign="top">
-[Walden Farms](https://waldenfarms.com/)
-[Harvest Snaps](https://www.harvestsnaps.com)
-[Think! Products](https://www.thinkproducts.com)
-[Divine Chocolate USA](https://www.divinechocolateusa.com/)
--[Good Earth](https://goodearth.com/)
+- [Walden Farms](https://waldenfarms.com/)
+- [Harvest Snaps](https://www.harvestsnaps.com)
+- [Think! Products](https://www.thinkproducts.com)
+- [Divine Chocolate USA](https://www.divinechocolateusa.com/)
+- [Good Earth](https://goodearth.com/)
     </td>
   </tr>
-</table> 
+</table>
 
 ---
 
