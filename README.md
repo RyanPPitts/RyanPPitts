@@ -1,8 +1,8 @@
-# Ryan P. Pitts
+# Ryan P. Pitts 
 
 ## Web Developer | Ecommerce Expert | Digital Marketing Nerd
 
-📍 **Seattle/Tacoma, Washington**   | 📧 [ryanpitts26@gmail.com](mailto:ryanpitts26@gmail.com) | 📞 (206) 898-2147 | 🔗 [LinkedIn](https://www.linkedin.com/in/ryanpitts)
+📍**Seattle/Tacoma, Washington**   | 📧 [ryanpitts26@gmail.com](mailto:ryanpitts26@gmail.com) | 📞 (206) 898-2147 | 🔗 [LinkedIn](https://www.linkedin.com/in/ryanpitts)
 
 ---
 
