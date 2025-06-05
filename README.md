@@ -45,27 +45,33 @@ Experienced web developer and ecommerce expert with over 15 years dedicated to d
 <table>
   <tr>
     <td valign="top">
-- [Celestial Seasonings](https://celestialseasonings.com)
-- [Eight O'Clock Coffee](https://www.eightoclock.com/)
-- [Mary's Gone Crackers](https://www.marysgonecrackers.com/)
-- [Quest Nutrition](https://questnutrition.com)
-- [Tootsie Roll Shop](https://shop.tootsie.com/)
-- [Loacker USA](https://www.loackerusa.com/)
+      <ul>
+        <li><a href="https://celestialseasonings.com">Celestial Seasonings</a></li>
+        <li><a href="https://www.eightoclock.com/">Eight O'Clock Coffee</a></li>
+        <li><a href="https://www.marysgonecrackers.com/">Mary's Gone Crackers</a></li>
+        <li><a href="https://questnutrition.com">Quest Nutrition</a></li>
+        <li><a href="https://shop.tootsie.com/">Tootsie Roll Shop</a></li>
+        <li><a href="https://www.loackerusa.com/">Loacker USA</a></li>
+      </ul>
     </td>
     <td valign="top">
-- [Traditional Medicinals](https://traditionalmedicinals.com)
-- [Second Nature Snacks](https://www.secondnaturesnacks.com/)
-- [Alter Eco Foods](https://www.alterecofoods.com/)
-- [Brownie Brittle](https://www.browniebrittle.com/)
-- [Sanders Candy](https://www.sanderscandy.com/)
-- [Sahale Snacks](https://www.sahalesnacks.com/)
+      <ul>
+        <li><a href="https://traditionalmedicinals.com">Traditional Medicinals</a></li>
+        <li><a href="https://www.secondnaturesnacks.com/">Second Nature Snacks</a></li>
+        <li><a href="https://www.alterecofoods.com/">Alter Eco Foods</a></li>
+        <li><a href="https://www.browniebrittle.com/">Brownie Brittle</a></li>
+        <li><a href="https://www.sanderscandy.com/">Sanders Candy</a></li>
+        <li><a href="https://www.sahalesnacks.com/">Sahale Snacks</a></li>
+      </ul>
     </td>
     <td valign="top">
-- [Walden Farms](https://waldenfarms.com/)
-- [Harvest Snaps](https://www.harvestsnaps.com)
-- [Think! Products](https://www.thinkproducts.com)
-- [Divine Chocolate USA](https://www.divinechocolateusa.com/)
-- [Good Earth](https://goodearth.com/)
+      <ul>
+        <li><a href="https://waldenfarms.com/">Walden Farms</a></li>
+        <li><a href="https://www.harvestsnaps.com">Harvest Snaps</a></li>
+        <li><a href="https://www.thinkproducts.com">Think! Products</a></li>
+        <li><a href="https://www.divinechocolateusa.com/">Divine Chocolate USA</a></li>
+        <li><a href="https://goodearth.com/">Good Earth</a></li>
+      </ul>
     </td>
   </tr>
 </table>
