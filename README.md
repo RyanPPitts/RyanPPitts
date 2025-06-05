@@ -8,7 +8,7 @@
 
 ### 🚀 **About Me**
 
-Experienced web developer and e-commerce expert with over 15 years dedicated to driving online growth through a powerful combination of full-stack development, digital marketing, and comprehensive e-commerce operations. My passion lies in crafting engaging online experiences, optimizing conversions, and leveraging data-driven insights to scale digital presence and revenues.
+Experienced web developer and ecommerce expert with over 15 years dedicated to driving online growth through a powerful combination of full-stack development, digital marketing, and comprehensive ecommerce operations. My passion lies in crafting engaging online experiences, optimizing conversions, and leveraging data-driven insights to scale digital presence and revenues.
 
 ---
 
@@ -23,7 +23,7 @@ Experienced web developer and e-commerce expert with over 15 years dedicated to 
 - Developed custom Shopify apps using Shopify Functions, Checkout Extensions, and APIs for advanced storefront capabilities.
 - Actively participated in high-impact cross-functional teams for Conversion Rate Optimization (CRO), Problem-Solving, and strategic Shopify initiatives.
 
-**E-commerce Specialist**  
+**Ecommerce Specialist**  
 *Fantastapack | May 2016 – April 2021*
 
 - Grew monthly revenues **from $20K to $1.19M**, driving growth through strategic marketing, multi-channel marketplace expansion, and high-value sales.
